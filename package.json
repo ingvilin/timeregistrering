@@ -1,0 +1,19 @@
+{
+  "name": "node-js-getting-started",
+  "version": "0.2.5",
+  "description": "Timeregistrering",
+  "main": "server.js",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "~4.0.0",
+    "mongoose": "~4.4.19",
+    "body-parser": "~1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ingvilin/timeregistrering"
+  }
+}
